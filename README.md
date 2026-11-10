@@ -67,10 +67,6 @@ A sales analytics portfolio project focused on evaluating the business performan
 
 I am open to connecting with fellow data professionals, learning opportunities, collaborations, and entry-level Data Analyst opportunities.
 
-## 5. Contact Information
-
-I am open to connecting with fellow data professionals, learning opportunities, collaborations, and entry-level Data Analyst opportunities.
-
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rotimi-omotehinse-642201133/)
 - **GitHub:** [Explore my repositories](https://github.com/RotimiOmotehinse)
 - **Email:** oludnl@gmail.com
