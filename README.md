@@ -57,6 +57,20 @@ A sales analytics portfolio project focused on evaluating the business performan
 - Developed interactive dashboards to analyse sales performance, profitability, customer behaviour, and product performance.
 - Generated business insights and recommendations to support management decision-making.
 
+  **Project Dashboards**
+
+**1. Sales Performance Dashboard**
+
+https://github.com/RotimiOmotehinse/RotimiOmotehinse/blob/main/Sales%20Performance%20Dashboard%201.png
+
+**2. Profitability & Discount Analysis Dashboard**
+
+(https://github.com/RotimiOmotehinse/RotimiOmotehinse/blob/main/Profitability%20%26%20Discount.png)
+
+**3. Customer & Product Insights Dashboard**
+
+(https://github.com/RotimiOmotehinse/RotimiOmotehinse/blob/main/Customer%20and%20Product%20Insights%201.png)]
+
 **Tools:** Microsoft Excel | Power BI
 
 🔗 [Explore Project on GitHub](https://github.com/RotimiOmotehinse/data-analytics-portfolio)
