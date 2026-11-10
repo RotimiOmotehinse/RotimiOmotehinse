@@ -59,7 +59,7 @@ A sales analytics portfolio project focused on evaluating the business performan
 
 **Tools:** Microsoft Excel | Power BI
 
-🔗 [View Project Repository](https://github.com/RotimiOmotehinse/data-analytics-portfolio)
+🔗 [Explore Project on GitHub](https://github.com/RotimiOmotehinse/data-analytics-portfolio)
 
 *More data analytics projects will be added as I continue learning and building my portfolio.*
 
