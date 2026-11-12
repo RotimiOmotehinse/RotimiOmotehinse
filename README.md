@@ -61,7 +61,7 @@ A sales analytics portfolio project focused on evaluating the business performan
 
 **1. Sales Performance Dashboard**
 
-!(https://github.com/RotimiOmotehinse/RotimiOmotehinse/blob/main/Sales%20Performance%20Dashboard%201.png)
+![Sales Performance Dashboard](https://github.com/RotimiOmotehinse/RotimiOmotehinse/commit/f2bfb6fd18a13a8a91862175063e3783eac867fa)
 
 **2. Profitability & Discount Analysis Dashboard**
 
