@@ -61,7 +61,7 @@ A sales analytics portfolio project focused on evaluating the business performan
 
 **1. Sales Performance Dashboard**
 
-![Sales Performance Dashboard]()
+![Sales Performance Dashboard](Sales%20Performance%20Dashboard%201.png)
 
 **2. Profitability & Discount Analysis Dashboard**
 
